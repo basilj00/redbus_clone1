@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
-import 'package:redbus_clone1/utils/image_consants.dart';
-import 'package:redbus_clone1/view/home_screen/tabs/bus_ticket.dart';
-import 'package:redbus_clone1/view/home_screen/tabs/cab_ticket.dart';
-import 'package:redbus_clone1/view/home_screen/tabs/metro_ticket.dart';
-import 'package:redbus_clone1/view/home_screen/tabs/train_ticket.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/image_consants.dart';
+import 'package:redbus_clone_app/view/home_screen/tabs/bus_ticket.dart';
+import 'package:redbus_clone_app/view/home_screen/tabs/cab_ticket.dart';
+import 'package:redbus_clone_app/view/home_screen/tabs/metro_ticket.dart';
+import 'package:redbus_clone_app/view/home_screen/tabs/train_ticket.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

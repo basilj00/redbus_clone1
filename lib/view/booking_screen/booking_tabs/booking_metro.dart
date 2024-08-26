@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
 
 class BookingMetroScreen extends StatefulWidget {
   const BookingMetroScreen({super.key});

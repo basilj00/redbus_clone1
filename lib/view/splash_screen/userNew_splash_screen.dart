@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
-import 'package:redbus_clone1/utils/image_consants.dart';
-import 'package:redbus_clone1/view/bottom_nav_screen/bottom_nav_screen.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/image_consants.dart';
+import 'package:redbus_clone_app/view/bottom_nav_screen/bottom_nav_screen.dart';
 
 class userNewScreen extends StatefulWidget {
   const userNewScreen({super.key});

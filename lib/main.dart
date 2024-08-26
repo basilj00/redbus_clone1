@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/view/splash_screen/splash_screen.dart';
+
+import 'package:redbus_clone_app/view/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());

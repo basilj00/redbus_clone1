@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
-import 'package:redbus_clone1/utils/image_consants.dart';
-import 'package:redbus_clone1/view/booking_screen/booking_screen.dart';
-import 'package:redbus_clone1/view/home_screen/home_screen.dart';
-import 'package:redbus_clone1/view/profile_screen/profile_screen.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/image_consants.dart';
+import 'package:redbus_clone_app/view/booking_screen/booking_screen.dart';
+import 'package:redbus_clone_app/view/help_screen/help_screen.dart';
+import 'package:redbus_clone_app/view/home_screen/home_screen.dart';
+import 'package:redbus_clone_app/view/profile_screen/profile_screen.dart';
 
 class BottomNavbar extends StatefulWidget {
   const BottomNavbar({super.key});
@@ -18,7 +19,7 @@ class _BottomNavbarState extends State<BottomNavbar> {
   final List<Widget> _screens = [
     HomeScreen(),
     BookingScreen(),
-    Container(color: Colors.yellow),
+    HelpScreen(),    
     ProfileScreen(),    
   ];
 

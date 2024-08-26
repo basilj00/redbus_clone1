@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
-import 'package:redbus_clone1/utils/image_consants.dart';
-import 'package:redbus_clone1/view/booking_screen/booking_tabs/booking_bus.dart';
-import 'package:redbus_clone1/view/booking_screen/booking_tabs/booking_metro.dart';
-import 'package:redbus_clone1/view/booking_screen/booking_tabs/booking_train.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/image_consants.dart';
+import 'package:redbus_clone_app/view/booking_screen/booking_tabs/booking_bus.dart';
+import 'package:redbus_clone_app/view/booking_screen/booking_tabs/booking_metro.dart';
+import 'package:redbus_clone_app/view/booking_screen/booking_tabs/booking_train.dart';
 
 class BookingScreen extends StatefulWidget {
   @override

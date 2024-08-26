@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:redbus_clone1/utils/color_consants.dart';
-import 'package:redbus_clone1/utils/image_consants.dart';
-import 'package:redbus_clone1/view/splash_screen/userNew_splash_screen.dart';
+import 'package:redbus_clone_app/utils/color_consants.dart';
+import 'package:redbus_clone_app/utils/image_consants.dart';
+import 'package:redbus_clone_app/view/splash_screen/userNew_splash_screen.dart';
 
 class splashScreen extends StatefulWidget {
   const splashScreen({super.key});
